@@ -1,4 +1,4 @@
-package se321;
+package se.se321;
 
 
 public class Calculator {
